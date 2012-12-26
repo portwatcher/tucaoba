@@ -1,0 +1,12 @@
+POST /mm/api/?signature=d1e095b5b7a14c91dffffbf462ae5a041f95d746&timestamp=1353934321&nonce=1353961990 HTTP/1.0
+Content-Type: application/xml; charset=utf-8
+Content-Length: 245
+User-Agent: mm
+
+<xml><ToUserName><![CDATA[gh_9d58eff36f08]]></ToUserName>
+<FromUserName><![CDATA[ogALVjjZmS3X8rHEmd4RTYNgvb20]]></FromUserName>
+<CreateTime>1353934321</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[hello]]></Content>
+</xml>
+

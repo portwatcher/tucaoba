@@ -1,0 +1,6 @@
+<xml><ToUserName><![CDATA[gh_68ab47451dd8]]></ToUserName>
+<FromUserName><![CDATA[oxF2pjjBkC8iFsdrtfwPSV7oNoDQ]]></FromUserName>
+<CreateTime>1355606391</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[吐槽槽槽槽槽]]></Content>
+</xml>
